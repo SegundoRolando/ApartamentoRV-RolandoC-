@@ -39,11 +39,11 @@ reloj.
 
 ![image](https://user-images.githubusercontent.com/49033606/125228859-2bf1b080-e29b-11eb-8ee3-69960543f824.png)
 
-10. Crear un trigger que permita girar y detener la animación del globo terráqueo
-11. 
+9. Crear un trigger que permita girar y detener la animación del globo terráqueo
+
 ![image](https://user-images.githubusercontent.com/49033606/125228790-0cf31e80-e29b-11eb-86e2-ca31dfd025f0.png)
 
-11. Añadir una cámara de realidad virtual (GoogleVR) y colocarla para que la 
+10. Añadir una cámara de realidad virtual (GoogleVR) y colocarla para que la 
 aplicación inicie dentro de la escena del apartamento.
 
 ![image](https://user-images.githubusercontent.com/49033606/125228666-d0272780-e29a-11eb-8e34-427110862e9f.png)
@@ -61,4 +61,8 @@ compañía Ups Practica,ec.ups.edu.practica
 
 ![image](https://user-images.githubusercontent.com/49033606/125228232-1039da80-e29a-11eb-9cde-515fa1caa712.png)
 
-15. Generar el informe de práctica en el formato correspondiente
+14. Generar el informe de práctica en el formato correspondiente
+
+15. Conclusion
+
+Mediante esta practica se a considerado los puntos que se han pediod que se realice de hecho fue importante realizar esta practica por que nos permite aplicar el conocimiento aprendido en clases poor lo tanto esta practica nos ha permitido desplegar la aplicacion en android simulando un juego con las manecillas del reloj y tambien  con el globo terráqueo es decir se implemento efectos para estos dos objetos para que asi pueda simular a un juego y sea ejecutado en un celular android.
